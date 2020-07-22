@@ -21,5 +21,8 @@ Catalina 10.15.6
 
 
 ## References
+OpenCore guide for installation and configuration:
+https://dortania.github.io/OpenCore-Install-Guide/
+
 I used this to begin with:
 https://www.reddit.com/r/hackintosh/comments/fqpu49/opencore_lenovo_x250_minidp_issues/
