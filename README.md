@@ -20,7 +20,7 @@ https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X250-Ultrabook.136036.0.html
 | Security Predesktop Authentication | Disabled |
 | Security Chip | Disabled |
 | Memory Protection Execution Prevention | Enabled |
-| Virtualization | Enabled |
+| Virtualization VT-x | Enabled |
 | Virtualization VT-d | Disabled |
 | Computrace | Disabled |
 | Secure Boot | Disabled |
