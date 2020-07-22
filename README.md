@@ -11,8 +11,29 @@
 https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X250-Ultrabook.136036.0.html
 
 
-## Working MacOS Version:
+### Used BIOS settings
+
+| Item | Setting |
+| ------------- | ------------ |
+| USB 3.0 Mode | Enabled |
+| Power Intel Rapid Start Technology | Disabled |
+| Security Predesktop Authentication | Disabled |
+| Security Chip | Disabled |
+| Memory Protection Execution Prevention | Enabled |
+| Virtualization | Enabled |
+| Virtualization VT-d | Disabled |
+| Computrace | Disabled |
+| Secure Boot | Disabled |
+| UEFI/Legacy Boot | UEFI Only |
+| Boot Mode | Quick |
+
+
+
+## MacOS Version:
 Catalina 10.15.6
+
+## Used OpenCore Version
+0.59
 
 ## What is still not working
 - WLAN (maybe soon: https://github.com/AppleIntelWifi/adapter or https://github.com/OpenIntelWireless/itlwm/blob/master/.github/README_en.md) 
