@@ -24,7 +24,7 @@ https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X250-Ultrabook.136036.0.html
 | Virtualization VT-d | Disabled |
 | Computrace | Disabled |
 | Secure Boot | Disabled |
-| UEFI/Legacy Boot | UEFI Only |
+| UEFI/Legacy Boot | UEFI Only / Both |
 | Boot Mode | Quick |
 
 
