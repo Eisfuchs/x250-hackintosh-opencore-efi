@@ -15,6 +15,6 @@ https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X250-Ultrabook.136036.0.html
 Catalina 10.15.6
 
 ## What is still not working
-- WLAN (maybe soon: https://github.com/AppleIntelWifi/adapter) 
+- WLAN (maybe soon: https://github.com/AppleIntelWifi/adapter or https://github.com/OpenIntelWireless/itlwm/blob/master/.github/README_en.md) 
 - SD Card Reader (I had to disable it)
 - Mini-DP Port 
