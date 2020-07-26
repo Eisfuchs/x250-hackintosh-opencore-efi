@@ -159,608 +159,351 @@
 				<string>SSDT-PCI0.EXP1-Disbale.aml</string>
 			</dict>
 		</array>
-		<key>Block</key>
+		<key>Delete</key>
 		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
-				<key>Comment</key>
-				<string>_UPC to XUPC(all)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1VQQw==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data>AAAAAAAAAAA=</data>
-				<key>Replace</key>
-				<data>WFVQQw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>AAA=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>TP-BAT:GBIF03 to XBIF03</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>R0JJRgM=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WEJJRgM=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>TP-BAT:GBIX03 to XBIX03</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>R0JJWAM=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WEJJWAM=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>TP-BAT:GBST04 to XBST04</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>R0JTVAQ=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WEJTVAQ=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:MDGS=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AU1ER1MH</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AU1ER1MA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:MCPU=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AU1DUFUH</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AU1DUFUA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:BATM=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AUJBVE0H</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AUJBVE0A</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:MSMI=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AU1TTUkH</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AU1TTUkA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:BFWM=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AUJGV00H</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AUJGV00A</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:XDHK=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AVhESEsH</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AVhESEsA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:MWMI=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AU1XTUkH</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AU1XTUkA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Mutex:NPWM=0</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AU5QV00H</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>AU5QV00A</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Notify-batC#1</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>hkJBVDA=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>hkJBVEM=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Notify-batC#2</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>hkJBVDE=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>hkJBVEM=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Notify-batC#3</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>hlwvBV9TQl9QQ0kwTFBDX0VDX19CQVQx</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>hlwvBV9TQl9QQ0kwTFBDX0VDX19CQVRD</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>HPET WNTF to XXXX</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>V05URg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data>AAAAAAAAAAA=</data>
-				<key>Replace</key>
-				<data>WFhYWA==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>2</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>AAA=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>HPET WXPF to YYYY</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>V1hQRg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data>AAAAAAAAAAA=</data>
-				<key>Replace</key>
-				<data>WVlZWQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>1</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>AAA=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_Q14 to XQ14(TP-up)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1ExNA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data>AAAAAAAAAAA=</data>
-				<key>Replace</key>
-				<data>WFExNA==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>AAA=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_Q15 to XQ15(TP-down)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1ExNQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data>AAAAAAAAAAA=</data>
-				<key>Replace</key>
-				<data>WFExNQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>AAA=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_PTS to ZPTS(1,N)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1BUUwE=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WlBUUwE=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_WAK to ZWAK(1,N)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1dBSwE=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WldBSwE=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Windows 2015 to Darwin</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>V2luZG93cyAyMDE1AA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RGFyd2luAKOjo6Ojow==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Windows 2006 to 2015</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>MDYAcAFXVklTcAvWB09TWVOgIQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>MTUAcAFXSU44cAvfB09TWVOgGg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
+					<key>Comment</key>
+					<string>_DSM to XDSM</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X0RTTQ==</data>
+					<key>Replace</key>
+					<data>WERTTQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_OSI to XOSI</string>
+					<key>Disabled</key>
+					<true/>
+					<key>Find</key>
+					<data>X09TSQ==</data>
+					<key>Replace</key>
+					<data>WE9TSQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>XHCI to XHC</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>WEhDSQ==</data>
+					<key>Replace</key>
+					<data>WEhDXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EHC1 to EH01</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>RUhDMQ==</data>
+					<key>Replace</key>
+					<data>RUgwMQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>KBD to PS2K</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>S0JEXw==</data>
+					<key>Replace</key>
+					<data>UFMySw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>MOU to PS2M</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>TU9VXw==</data>
+					<key>Replace</key>
+					<data>UFMyTQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>SMBU to SBUS</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>U01CVQ==</data>
+					<key>Replace</key>
+					<data>U0JVUw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EXP to RP0</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>RVhQ</data>
+					<key>Replace</key>
+					<data>UlAw</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>IGBE to GLAN</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>SUdCRQ==</data>
+					<key>Replace</key>
+					<data>R0xBTg==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>B0D3 to HDAU</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>QjBEMw==</data>
+					<key>Replace</key>
+					<data>SERBVQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>SAT1 to SATA</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>U0FUMQ==</data>
+					<key>Replace</key>
+					<data>U0FUQQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>VID to IGPU #1</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>VklEXwhfQURSDAAAAgA=</data>
+					<key>Replace</key>
+					<data>SUdQVQhfQURSDAAAAgA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>VID to IGPU #2</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>UENJMFZJRF8=</data>
+					<key>Replace</key>
+					<data>UENJMElHUFU=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>BAT0/1_HID to XHID</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>CF9ISUQMQdAMCg==</data>
+					<key>Replace</key>
+					<data>CFhISUQMQdAMCg==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Notify(BAT0 to BATC</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>hkJBVDAKgA==</data>
+					<key>Replace</key>
+					<data>hkJBVEMKgA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Notify(BAT1 to BATC</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>hkJBVDEKgA==</data>
+					<key>Replace</key>
+					<data>hkJBVEMKgA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>GBIF.SBDV to XBDV</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>oBVTQkRWeAxADQMAU0JEVmI=</data>
+					<key>Replace</key>
+					<data>oBVYQkRWeAxADQMAWEJEVmI=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Store(SB to Store(XB</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>cFNC</data>
+					<key>Replace</key>
+					<data>cFhC</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Multiply(SB to Multiply(XB</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>
+					d1NC</data>
+					<key>Replace</key>
+					<data>d1hC</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q6A to XQ6A</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2QQ==</data>
+					<key>Replace</key>
+					<data>WFE2QQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q14 to XQ14</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1ExNA==</data>
+					<key>Replace</key>
+					<data>WFExNA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q15 to XQ15</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1ExNQ==</data>
+					<key>Replace</key>
+					<data>WFExNQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q16 to XQ16</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1ExNg==</data>
+					<key>Replace</key>
+					<data>WFExNg==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q64 to XQ64</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2NA==</data>
+					<key>Replace</key>
+					<data>WFE2NA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q66 to XQ66</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2Ng==</data>
+					<key>Replace</key>
+					<data>WFE2Ng==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q67 to XQ67</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2Nw==</data>
+					<key>Replace</key>
+					<data>WFE2Nw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q68 to XQ68</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2OA==</data>
+					<key>Replace</key>
+					<data>WFE2OA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q69 to XQ69</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1E2OQ==</data>
+					<key>Replace</key>
+					<data>WFE2OQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Method(_PTS,1,N) to ZPTS</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1BUUwE=</data>
+					<key>Replace</key>
+					<data>WlBUUwE=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Method(ESEL,0,S) to ESEZ</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>RVNFTAg=</data>
+					<key>Replace</key>
+					<data>RVNFWgg=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_WAK to XWAK</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>X1dBSw==</data>
+					<key>Replace</key>
+					<data>WFdBSw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Disable XHCI in _WAK(</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>UlwvBF9TQl9QQ0kwWEhDX1hSU1SgTwmR</data>
+					<key>Replace</key>
+					<data>UlwvBF9TQl9QQ0kwWEhDX1hSU1SgTwmQ</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Disable direct EC reads/writes by writing 0 to H8DR when _REV is called</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>lVxfUkVWCgJwCgFcSDhEUg==</data>
+					<key>Replace</key>
+					<data>lVxfUkVWCgJwCgBcSDhEUg==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>HWAC to XWAC EC reads</string>
+					<key>Enable</key>
+					<true/>
+					<key>Find</key>
+					<data>RUNfX0hXQUM=</data>
+					<key>Replace</key>
+					<data>RUNfX1hXQUM=</data>
+				</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
@@ -773,8 +516,6 @@
 			<key>ResetHwSig</key>
 			<false/>
 			<key>ResetLogoStatus</key>
-			<false/>
-			<key>EnableForAll</key>
 			<false/>
 		</dict>
 	</dict>
@@ -817,17 +558,23 @@
 			<true/>
 			<key>ForceExitBootServices</key>
 			<false/>
-			<key>ProtectCsmRegion</key>
+			<key>ProtectMemoryRegions</key>
 			<false/>
 			<key>ProtectSecureBoot</key>
 			<false/>
+			<key>ProtectUefiServices</key>
+			<false/>
 			<key>ProvideCustomSlide</key>
 			<true/>
+			<key>ProvideMaxSlide</key>
+			<integer>0</integer>
+			<key>RebuildAppleMemoryMap</key>
+			<false/>
 			<key>SetupVirtualMap</key>
 			<true/>
-			<key>ShrinkMemoryMap</key>
-			<false/>
 			<key>SignalAppleOS</key>
+			<false/>
+			<key>SyncRuntimePermissions</key>
 			<false/>
 		</dict>
 	</dict>
@@ -853,35 +600,15 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BgAmFg==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
+				<data>AgArFg==</data>
 				<key>device-id</key>
 				<data>FhYAAA==</data>
-				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-flags</key>
-				<data>OAIAAA==</data>
-				<key>framebuffer-con0-pipe</key>
-				<data>EgAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-pipe</key>
-				<data>EgAAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-portcount</key>
-				<data>AgAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
@@ -890,7 +617,7 @@
 				<string>GPU</string>
 			</dict>
 		</dict>
-		<key>Block</key>
+		<key>Delete</key>
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<array>
@@ -1363,8 +1090,6 @@
 			<string>Builtin</string>
 			<key>HideAuxiliary</key>
 			<false/>
-			<key>HideSelf</key>
-			<true/>
 			<key>PickerAttributes</key>
 			<integer>0</integer>
 			<key>PickerAudioAssist</key>
@@ -1480,7 +1205,7 @@
 				<data>emgtSGFuczoyNTI=</data>
 			</dict>
 		</dict>
-		<key>Block</key>
+		<key>Delete</key>
 		<dict>
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<array/>
@@ -1618,7 +1343,7 @@
 			<key>SanitiseClearScreen</key>
 			<false/>
 		</dict>
-		<key>Protocols</key>
+		<key>ProtocolOverrides</key>
 		<dict>
 			<key>AppleAudio</key>
 			<false/>
@@ -1649,16 +1374,18 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>DeduplicateBootOrder</key>
+			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
 			<true/>
 			<key>ReleaseUsbOwnership</key>
 			<false/>
-			<key>RequestBootVarFallback</key>
-			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>TscSyncTimeout</key>
+			<integer>0</integer>
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
