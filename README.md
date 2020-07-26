@@ -38,7 +38,6 @@ Catalina 10.15.6
 ## What is still not working
 - WLAN (maybe soon: https://github.com/AppleIntelWifi/adapter or https://github.com/OpenIntelWireless/itlwm/blob/master/.github/README_en.md) 
 - SD Card Reader (I had to disable it)
-- Mini-DP Port 
 
 
 ## References
@@ -47,3 +46,6 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 I used this to begin with:
 https://www.reddit.com/r/hackintosh/comments/fqpu49/opencore_lenovo_x250_minidp_issues/
+
+I used some configurations from:
+https://github.com/banhbaoxamlan/X250-Hackintosh
