@@ -46,3 +46,6 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 I used this to begin with:
 https://www.reddit.com/r/hackintosh/comments/fqpu49/opencore_lenovo_x250_minidp_issues/
+
+I used some configurations from:
+https://github.com/banhbaoxamlan/X250-Hackintosh
