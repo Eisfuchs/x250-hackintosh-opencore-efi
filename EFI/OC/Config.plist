@@ -164,13 +164,13 @@
 		<key>Patch</key>
 		<array>
 			<dict>
-					<key>Comment</key>
+				<key>Comment</key>
 				<string>_UPC to XUPC(all)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>X1VQQw==</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -178,7 +178,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data>AAAAAAAAAAA=</data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WFVQQw==</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -188,15 +188,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>AAA=</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>TP-BAT:GBIF03 to XBIF03</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>R0JJRgM=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -204,7 +204,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WEJJRgM=</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -214,15 +214,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>TP-BAT:GBIX03 to XBIX03</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>R0JJWAM=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -230,7 +230,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WEJJWAM=</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -240,15 +240,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>TP-BAT:GBST04 to XBST04</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>R0JTVAQ=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -256,7 +256,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WEJTVAQ=</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -266,15 +266,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:MDGS=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AU1ER1MH</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -282,7 +282,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AU1ER1MA</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -292,15 +292,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:MCPU=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AU1DUFUH</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -308,7 +308,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AU1DUFUA</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -318,15 +318,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:BATM=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AUJBVE0H</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -334,7 +334,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AUJBVE0A</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -344,15 +344,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:MSMI=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AU1TTUkH</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -360,7 +360,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AU1TTUkA</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -370,15 +370,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:BFWM=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AUJGV00H</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -386,7 +386,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AUJGV00A</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -396,15 +396,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:XDHK=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AVhESEsH</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -412,7 +412,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AVhESEsA</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -422,15 +422,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:MWMI=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AU1XTUkH</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -438,7 +438,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AU1XTUkA</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -448,15 +448,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Mutex:NPWM=0</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>AU5QV00H</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -464,7 +464,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>AU5QV00A</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -474,15 +474,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Notify-batC#1</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>hkJBVDA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -490,7 +490,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>hkJBVEM=</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -500,15 +500,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Notify-batC#2</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>hkJBVDE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -516,7 +516,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>hkJBVEM=</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -526,15 +526,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Notify-batC#3</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>hlwvBV9TQl9QQ0kwTFBDX0VDX19CQVQx</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -542,7 +542,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>hlwvBV9TQl9QQ0kwTFBDX0VDX19CQVRD</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -552,15 +552,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>HPET WNTF to XXXX</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>V05URg==</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -568,7 +568,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data>AAAAAAAAAAA=</data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WFhYWA==</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -578,15 +578,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>AAA=</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>HPET WXPF to YYYY</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>V1hQRg==</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -594,7 +594,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data>AAAAAAAAAAA=</data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>WVlZWQ==</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -604,24 +604,24 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>AAA=</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>_Q14 to XQ14(TP-up)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
-					<data>X1ExNA==</data>
+				<true/>
+				<key>Find</key>
+				<data>X1ExNA==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
 				<key>OemTableId</key>
 				<data>AAAAAAAAAAA=</data>
-					<key>Replace</key>
-					<data>WFExNA==</data>
+				<key>Replace</key>
+				<data>WFExNA==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -630,24 +630,24 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>AAA=</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>_Q15 to XQ15(TP-down)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
-					<data>X1ExNQ==</data>
+				<true/>
+				<key>Find</key>
+				<data>X1ExNQ==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
 				<key>OemTableId</key>
 				<data>AAAAAAAAAAA=</data>
-					<key>Replace</key>
-					<data>WFExNQ==</data>
+				<key>Replace</key>
+				<data>WFExNQ==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -656,24 +656,24 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>AAA=</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>_PTS to ZPTS(1,N)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
-					<data>X1BUUwE=</data>
+				<true/>
+				<key>Find</key>
+				<data>X1BUUwE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
-					<data>WlBUUwE=</data>
+				<key>Replace</key>
+				<data>WlBUUwE=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -682,15 +682,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>_WAK to ZWAK(1,N)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>X1dBSwE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -699,7 +699,7 @@
 				<key>OemTableId</key>
 				<data></data>
 					<key>Replace</key>
-				<data>WldBSwE=</data>
+			<data>WldBSwE=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -708,15 +708,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Windows 2015 to Darwin</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>V2luZG93cyAyMDE1AA==</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -724,7 +724,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>RGFyd2luAKOjo6Ojow==</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -734,15 +734,15 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
-				<dict>
-					<key>Comment</key>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Windows 2006 to 2015</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-					<true/>
-					<key>Find</key>
+				<true/>
+				<key>Find</key>
 				<data>MDYAcAFXVklTcAvWB09TWVOgIQ==</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -750,7 +750,7 @@
 				<data></data>
 				<key>OemTableId</key>
 				<data></data>
-					<key>Replace</key>
+				<key>Replace</key>
 				<data>MTUAcAFXSU44cAvfB09TWVOgGg==</data>
 				<key>ReplaceMask</key>
 				<data></data>
@@ -760,7 +760,7 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
-				</dict>
+			</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
