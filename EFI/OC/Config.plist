@@ -159,8 +159,6 @@
           <string>SSDT-PCI0.EXP1-Disbale.aml</string>
         </dict>
       </array>
-      <key>Delete</key>
-      <array/>
       <key>Patch</key>
       <array>
         <dict>
@@ -651,21 +649,13 @@
         <true/>
         <key>ForceExitBootServices</key>
         <false/>
-        <key>ProtectMemoryRegions</key>
-        <false/>
         <key>ProtectSecureBoot</key>
-        <false/>
-        <key>ProtectUefiServices</key>
         <false/>
         <key>ProvideCustomSlide</key>
         <true/>
-        <key>RebuildAppleMemoryMap</key>
-        <false/>
         <key>SetupVirtualMap</key>
         <true/>
         <key>SignalAppleOS</key>
-        <false/>
-        <key>SyncRuntimePermissions</key>
         <false/>
       </dict>
     </dict>
@@ -727,13 +717,6 @@
           <key>name</key>
           <string>GPU</string>
         </dict>
-      </dict>
-      <key>Delete</key>
-      <dict>
-        <key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
-        <array>
-          <string>MaximumBootBeepVolume</string>
-        </array>
       </dict>
     </dict>
     <key>Kernel</key>
@@ -1170,13 +1153,6 @@
           <data>emgtSGFuczoyNTI=</data>
         </dict>
       </dict>
-      <key>Delete</key>
-      <dict>
-        <key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
-        <array/>
-        <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-        <array/>
-      </dict>
       <key>LegacyEnable</key>
       <false/>
       <key>LegacyOverwrite</key>
@@ -1304,39 +1280,8 @@
         <key>SanitiseClearScreen</key>
         <false/>
       </dict>
-      <key>ProtocolOverrides</key>
-      <dict>
-        <key>AppleAudio</key>
-        <false/>
-        <key>AppleBootPolicy</key>
-        <false/>
-        <key>AppleEvent</key>
-        <false/>
-        <key>AppleImageConversion</key>
-        <false/>
-        <key>AppleKeyMap</key>
-        <false/>
-        <key>AppleSmcIo</key>
-        <true/>
-        <key>AppleUserInterfaceTheme</key>
-        <false/>
-        <key>DataHub</key>
-        <false/>
-        <key>DeviceProperties</key>
-        <false/>
-        <key>FirmwareVolume</key>
-        <false/>
-        <key>HashServices</key>
-        <false/>
-        <key>OSInfo</key>
-        <false/>
-        <key>UnicodeCollation</key>
-        <false/>
-      </dict>
       <key>Quirks</key>
       <dict>
-        <key>DeduplicateBootOrder</key>
-        <true/>
         <key>ExitBootServicesDelay</key>
         <integer>0</integer>
         <key>IgnoreInvalidFlexRatio</key>
@@ -1345,8 +1290,6 @@
         <false/>
         <key>RequestBootVarRouting</key>
         <true/>
-        <key>TscSyncTimeout</key>
-        <integer>0</integer>
         <key>UnblockFsConnect</key>
         <false/>
       </dict>
