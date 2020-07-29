@@ -659,8 +659,6 @@
         <false/>
         <key>ProvideCustomSlide</key>
         <true/>
-        <key>ProvideMaxSlide</key>
-        <integer>0</integer>
         <key>RebuildAppleMemoryMap</key>
         <false/>
         <key>SetupVirtualMap</key>
@@ -730,7 +728,7 @@
           <string>GPU</string>
         </dict>
       </dict>
-      <key>Block</key>
+      <key>Delete</key>
       <dict>
         <key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
         <array>
