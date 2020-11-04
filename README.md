@@ -15,17 +15,17 @@ https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X250-Ultrabook.136036.0.html
 
 | Item | Setting |
 | ------------- | ------------ |
-| USB 3.0 Mode | Enabled |
-| Power Intel Rapid Start Technology | Disabled |
-| Security Predesktop Authentication | Disabled |
-| Security Chip | Disabled |
-| Memory Protection Execution Prevention | Enabled |
-| Virtualization VT-x | Enabled |
-| Virtualization VT-d | Disabled |
-| Computrace | Disabled |
-| Secure Boot | Disabled |
-| UEFI/Legacy Boot | UEFI Only / Both |
-| Boot Mode | Quick |
+| Config -> USB -> USB 3.0 Mode | Enabled |
+| Config -> Power -> Power Intel Rapid Start Technology | Disabled |
+| Security -> Fingerprint -> Predesktop Authentication | Disabled |
+| Security -> Security Chip -> Security Chip | Disabled |
+| Security -> Memory Protection -> Execution Prevention | Enabled |
+| Security -> Virtualization -> VT-x | Enabled |
+| Security -> Virtualization -> VT-d -> | Disabled |
+| Security -> Anti-Theft -> Computrace | Disabled |
+| Security -> Secure Boot | Disabled |
+| Startup -> UEFI/Legacy Boot | UEFI Only / Both |
+| Startup -> Boot Mode | Quick |
 
 
 
